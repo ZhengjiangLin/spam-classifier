@@ -1,0 +1,3 @@
+spam_classifier_model.pth
+*.pth
+__pycache__/
