@@ -14,7 +14,7 @@ Production spam detection tool built from Sebastian Raschka's book *Build a Larg
 ![Spam Classifier Example](spam_classifier_example.png)
 
 - Real LoRA fine-tuned GPT-2 model (Chapter 6)
-- Outputs: SPAM / HAM + confidence score + mathematical explanation
+- Outputs: SPAM / HAM + confidence score
 - Uses tiktoken tokenizer + full Transformer architecture
 
 ## Files
